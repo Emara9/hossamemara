@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aremakushi
+- 👋 Hi, I’m @HossamEmara
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning c programming language
+- 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me emarahossam19@gmail.com
 <!---
